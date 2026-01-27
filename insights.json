@@ -1,46 +1,75 @@
 {
   "insights": [
     {
+      "id": "20260127130246",
+      "date": "January 2026",
+      "title": "VCM Demand Stabilizes as Forestry Projects Capture 87% of Buyer Interest",
+      "excerpt": "Ecosystem Marketplace's Q1 2026 survey reveals market equilibrium with 63% unchanged buyer interest and 47% stable pricing. Nature-based solutions dominate inquiries while quality certifications become procurement gatekeepers.",
+      "tags": [
+        "Market Trends",
+        "Investment",
+        "Certification"
+      ]
+    },
+    {
       "id": "20260127001",
       "date": "January 2026",
       "title": "2026: The Year CCP-Labeled Credits Finally Scale",
       "excerpt": "After two years of framework building, CCP-labeled carbon credit supply is set to surge in 2026. With 30+ methodologies now approved and major programs transitioning to new standards, institutional buyers finally have the volume they've been waiting for.",
-      "tags": ["CCP", "Market Trends"]
+      "tags": [
+        "CCP",
+        "Market Trends"
+      ]
     },
     {
       "id": "20260127002",
       "date": "January 2026",
       "title": "ICVCM Approves Biochar and IFM Methodologies",
       "excerpt": "Five new methodologies for biochar and improved forest management now carry CCP approval. Over 500,000 biochar credits projected for 2026 as the removal credit market matures.",
-      "tags": ["CCP", "Removals"]
+      "tags": [
+        "CCP",
+        "Removals"
+      ]
     },
     {
       "id": "20260127003",
       "date": "January 2026",
       "title": "EU Directive Bans Generic Climate Claims",
       "excerpt": "The Empowering Consumers Directive enters force September 2026. Corporate buyers face a clear choice: CCP-aligned credits or regulatory risk. Generic offsetting claims will no longer pass muster.",
-      "tags": ["Regulation", "EU"]
+      "tags": [
+        "Regulation",
+        "EU"
+      ]
     },
     {
       "id": "20260127004",
       "date": "January 2026",
       "title": "Renewable Energy Credits Excluded from CCP Label",
-      "excerpt": "Eight renewable energy methodologies—representing 32% of the voluntary carbon market—fail ICVCM additionality requirements. A clear two-tier market is emerging.",
-      "tags": ["CCP", "Certification"]
+      "excerpt": "Eight renewable energy methodologies\u2014representing 32% of the voluntary carbon market\u2014fail ICVCM additionality requirements. A clear two-tier market is emerging.",
+      "tags": [
+        "CCP",
+        "Certification"
+      ]
     },
     {
       "id": "20260127005",
       "date": "December 2025",
       "title": "Colombia's Orinoquia Attracts $100M+ Investment",
-      "excerpt": "Trafigura and GenZero committed $100M to Brújula Verde, signaling institutional confidence in Colombian forestry assets. The Orinoquia region continues to draw major capital.",
-      "tags": ["Colombia", "Investment"]
+      "excerpt": "Trafigura and GenZero committed $100M to Br\u00fajula Verde, signaling institutional confidence in Colombian forestry assets. The Orinoquia region continues to draw major capital.",
+      "tags": [
+        "Colombia",
+        "Investment"
+      ]
     },
     {
       "id": "20260127006",
       "date": "December 2025",
       "title": "NBS Removal Demand to Exceed Supply",
       "excerpt": "BCG projects a 60 megaton annual shortfall in nature-based removal credits by 2030. Premium IFM credits already command 250% higher prices than avoidance credits.",
-      "tags": ["Market Trends", "Investment"]
+      "tags": [
+        "Market Trends",
+        "Investment"
+      ]
     }
   ]
 }
