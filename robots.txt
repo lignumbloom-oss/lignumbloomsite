@@ -1,0 +1,11 @@
+# robots.txt for Lignum & Bloom
+# https://lignumresources.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://lignumresources.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 10
