@@ -1,6 +1,17 @@
 {
   "insights": [
     {
+      "id": "20260217114921",
+      "date": "January 2026",
+      "title": "Bloomberg Embeds Carbon Credit Quality Ratings Into Terminal as Finance Infrastructure Evolves",
+      "excerpt": "Bloomberg's integration of Calyx Global ratings marks carbon credit quality analysis shifting from niche ESG research to core financial risk infrastructure. Institutional investors can now access standardized integrity assessments alongside pricing data, signaling carbon markets' convergence with traditional fixed income structures.",
+      "tags": [
+        "Investment",
+        "Certification",
+        "Market Trends"
+      ]
+    },
+    {
       "id": "20260212142757",
       "date": "January 2026",
       "title": "High-Quality Carbon Credits Command 90% Price Premiums as Supply Tightens",
@@ -201,16 +212,6 @@
       "excerpt": "Trafigura and GenZero committed $100M to Br\u00fajula Verde, signaling institutional confidence in Colombian forestry assets. The Orinoquia region continues to draw major capital.",
       "tags": [
         "Colombia",
-        "Investment"
-      ]
-    },
-    {
-      "id": "20260127006",
-      "date": "December 2025",
-      "title": "NBS Removal Demand to Exceed Supply",
-      "excerpt": "BCG projects a 60 megaton annual shortfall in nature-based removal credits by 2030. Premium IFM credits already command 250% higher prices than avoidance credits.",
-      "tags": [
-        "Market Trends",
         "Investment"
       ]
     }
