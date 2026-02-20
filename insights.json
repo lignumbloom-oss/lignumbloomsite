@@ -1,6 +1,17 @@
 {
   "insights": [
     {
+      "id": "20260220040551",
+      "date": "January 2026",
+      "title": "DelAgua Cookstove Projects Clear CORSIA Eligibility Hurdle in Africa",
+      "excerpt": "DelAgua's African cookstove portfolio just gained CORSIA eligibility tags, marking another step toward aviation sector adoption of cookstove credits. This follows our Togo project becoming the first CCP-labeled cookstove initiative globally\u2014a signal that rigorous certification is becoming table stakes for institutional buyers.",
+      "tags": [
+        "Cookstoves",
+        "Certification",
+        "CORSIA"
+      ]
+    },
+    {
       "id": "20260217114921",
       "date": "January 2026",
       "title": "Bloomberg Embeds Carbon Credit Quality Ratings Into Terminal as Finance Infrastructure Evolves",
@@ -203,16 +214,6 @@
       "tags": [
         "CCP",
         "Certification"
-      ]
-    },
-    {
-      "id": "20260127005",
-      "date": "December 2025",
-      "title": "Colombia's Orinoquia Attracts $100M+ Investment",
-      "excerpt": "Trafigura and GenZero committed $100M to Br\u00fajula Verde, signaling institutional confidence in Colombian forestry assets. The Orinoquia region continues to draw major capital.",
-      "tags": [
-        "Colombia",
-        "Investment"
       ]
     }
   ]
