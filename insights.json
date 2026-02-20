@@ -1,6 +1,17 @@
 {
   "insights": [
     {
+      "id": "20260220041147",
+      "date": "January 2025",
+      "title": "Amazon Doubles Down on Superpollutant Credits as Tech Giants Shift Strategy",
+      "excerpt": "Amazon's expanded carbon credit portfolio now includes refrigerant destruction and sustainable aviation fuel projects alongside traditional removals. This signals growing corporate appetite for high-impact, short-duration credits that complement decade-long forestry commitments.",
+      "tags": [
+        "Investment",
+        "Market Trends",
+        "Certification"
+      ]
+    },
+    {
       "id": "20260220040551",
       "date": "January 2026",
       "title": "DelAgua Cookstove Projects Clear CORSIA Eligibility Hurdle in Africa",
@@ -204,16 +215,6 @@
       "tags": [
         "Regulation",
         "EU"
-      ]
-    },
-    {
-      "id": "20260127004",
-      "date": "January 2026",
-      "title": "Renewable Energy Credits Excluded from CCP Label",
-      "excerpt": "Eight renewable energy methodologies\u2014representing 32% of the voluntary carbon market\u2014fail ICVCM additionality requirements. A clear two-tier market is emerging.",
-      "tags": [
-        "CCP",
-        "Certification"
       ]
     }
   ]
