@@ -1,6 +1,17 @@
 {
   "insights": [
     {
+      "id": "20260221072033",
+      "date": "February 2026",
+      "title": "Microsoft's Carbon Removal Procurement Strategy Reshapes Market Dynamics",
+      "excerpt": "Microsoft's aggressive carbon removal purchasing is effectively setting market prices and standards across the sector. This corporate-driven demand concentration creates both opportunities and risks for project developers seeking diversified buyer bases.",
+      "tags": [
+        "Market Trends",
+        "Removals",
+        "Investment"
+      ]
+    },
+    {
       "id": "20260221071810",
       "date": "February 2026",
       "title": "Carbon Prices Hit Multi-Year Highs: Market Maturation or Supply Squeeze Warning?",
@@ -206,16 +217,6 @@
       "tags": [
         "CCP",
         "Market Trends"
-      ]
-    },
-    {
-      "id": "20260127002",
-      "date": "January 2026",
-      "title": "ICVCM Approves Biochar and IFM Methodologies",
-      "excerpt": "Five new methodologies for biochar and improved forest management now carry CCP approval. Over 500,000 biochar credits projected for 2026 as the removal credit market matures.",
-      "tags": [
-        "CCP",
-        "Removals"
       ]
     }
   ]
