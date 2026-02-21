@@ -1,6 +1,17 @@
 {
   "insights": [
     {
+      "id": "20260221071810",
+      "date": "February 2026",
+      "title": "Carbon Prices Hit Multi-Year Highs: Market Maturation or Supply Squeeze Warning?",
+      "excerpt": "Carbon markets are seeing significant price increases across multiple jurisdictions, but the underlying drivers reveal a tension between genuine demand growth and structural supply constraints. For institutional investors, this creates both opportunity and timing risk in carbon credit allocation strategies.",
+      "tags": [
+        "Market Trends",
+        "Investment",
+        "Regulation"
+      ]
+    },
+    {
       "id": "20260220041147",
       "date": "January 2025",
       "title": "Amazon Doubles Down on Superpollutant Credits as Tech Giants Shift Strategy",
@@ -205,16 +216,6 @@
       "tags": [
         "CCP",
         "Removals"
-      ]
-    },
-    {
-      "id": "20260127003",
-      "date": "January 2026",
-      "title": "EU Directive Bans Generic Climate Claims",
-      "excerpt": "The Empowering Consumers Directive enters force September 2026. Corporate buyers face a clear choice: CCP-aligned credits or regulatory risk. Generic offsetting claims will no longer pass muster.",
-      "tags": [
-        "Regulation",
-        "EU"
       ]
     }
   ]
