@@ -1,6 +1,17 @@
 {
   "insights": [
     {
+      "id": "20260224054505",
+      "date": "February 2026",
+      "title": "Mast Reforestation Advances Biomass Burial Credits as Removal Market Seeks Scalable Solutions",
+      "excerpt": "Mast's commercial progress in biomass burial represents a critical test for newer removal methodologies seeking market acceptance. The approach could offer more cost-effective permanence than direct air capture while addressing concerns about traditional forestry credits.",
+      "tags": [
+        "Removals",
+        "Market Trends",
+        "Certification"
+      ]
+    },
+    {
       "id": "20260221072033",
       "date": "February 2026",
       "title": "Microsoft's Carbon Removal Procurement Strategy Reshapes Market Dynamics",
@@ -207,16 +218,6 @@
         "Market Trends",
         "Investment",
         "Certification"
-      ]
-    },
-    {
-      "id": "20260127001",
-      "date": "January 2026",
-      "title": "2026: The Year CCP-Labeled Credits Finally Scale",
-      "excerpt": "After two years of framework building, CCP-labeled carbon credit supply is set to surge in 2026. With 30+ methodologies now approved and major programs transitioning to new standards, institutional buyers finally have the volume they've been waiting for.",
-      "tags": [
-        "CCP",
-        "Market Trends"
       ]
     }
   ]
